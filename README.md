@@ -1,3 +1,5 @@
+![](https://giphy.com/embed/Rlwz4m0aHgXH13jyrE)
+
 # 💥 About Me:
 👋 Hi, I’m @aivantuquero<br>👀 I’m interested in Cloud technologies, Full stack development and machine learning<br>🌱 I’m currently learning Data science, and the .NET Framework<br>💞️ I’m looking to collaborate on Unity Game Development<br>📫 How to reach me: aivancarlostuquero@gmail.com
 
