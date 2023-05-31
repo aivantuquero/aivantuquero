@@ -1,7 +1,7 @@
 ![](giphy.gif)
 
 # 💥 About Me:
-👋 Hi, I’m @aivantuquero<br>👀 I’m interested in Cloud technologies, Full stack development and machine learning<br>🌱 I’m currently learning Data science/Machine Learning, Mobile Development, and the .NET Framework<br>📫 How to reach me: aivancarlostuquero@gmail.com
+👋 Hi, I’m @aivantuquero<br>👀 I’m interested in Cloud technologies, Full stack development, and Machine learning<br>🌱 I’m currently learning Data science/Machine Learning, Mobile Development, and the .NET Framework. A Jack of all trades, master of nones<br>📫 How to reach me: aivancarlostuquero@gmail.com
 
 
 ## 🌏 Socials:
