@@ -1,4 +1,5 @@
-![](giphy.gif)
+![monkeyhaha](https://github.com/aivantuquero/aivantuquero/assets/54162088/13348307-f4a7-4ac7-80f9-f30f6af498b1)
+
 
 # 💥 About Me:
 👋 Hi, I’m @aivantuquero<br>👀 I’m interested in Cloud technologies, Full stack development, and Machine learning<br>🌱 I’m currently learning Data science/Machine Learning, Mobile Development, and the .NET Framework. A Jack of all trades, master of nones<br>📫 How to reach me: aivancarlostuquero@gmail.com
