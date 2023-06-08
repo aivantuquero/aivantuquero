@@ -1,11 +1,9 @@
 
 <img align="center" height="350" alt="Please hire me" src="goofy.gif">
-# 💥 About Me:
+ 💥 About Me:
 <img align="left" height="150" alt="Please hire me" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
 <br>
-## 🌏 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aivantuquero) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aivancarlos) 
-<br>
+
 👋 Hi, I’m @aivantuquero<br>👀 I’m interested in Cloud technologies, Full stack development, and Machine learning<br>🌱 I’m currently learning Data science/Machine Learning, Mobile Development, and the .NET Framework. A Jack of all trades, master of none<br>📫 How to reach me: aivancarlostuquero@gmail.com
 
 
