@@ -1,6 +1,6 @@
 ![monkeyhaha](https://github.com/aivantuquero/aivantuquero/assets/54162088/13348307-f4a7-4ac7-80f9-f30f6af498b1)
 
-
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
 # 💥 About Me:
 👋 Hi, I’m @aivantuquero<br>👀 I’m interested in Cloud technologies, Full stack development, and Machine learning<br>🌱 I’m currently learning Data science/Machine Learning, Mobile Development, and the .NET Framework. A Jack of all trades, master of nones<br>📫 How to reach me: aivancarlostuquero@gmail.com
 
