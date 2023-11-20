@@ -3,7 +3,13 @@
 <img align="left" height="150" alt="Please hire me" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
 <br>
 
-👋 Hi, I’m Aivan Carlos B. Tuquero<br>👀 I’m interested in Cloud technologies, Full stack development, and Machine learning<br>🌱 I’m currently learning Data science/Machine Learning, Mobile Development, and the .NET Framework. A Jack of all trades, master of none<br>📫 How to reach me: aivancarlostuquero@gmail.com
+👋 Hello! I'm Aivan Carlos, a passionate 4th-year computer science student with a keen interest in Full Stack Engineering, Mobile Apps, Linux, and Cloud Technologies. I am also an Open Source Contributor 🚀
+
+🛠️ I've had the pleasure of working with various tech stacks, including several JS/TS Frameworks, React, Node.js, Express.js, PHP, Flask, AWS, and Firebase, to develop full-stack applications that bring ideas to life. My versatility extends to mobile app development, where I've crafted seamless experiences using Flutter (Dart), and even explored the desktop realm with a Java Swing-based application, and Python.
+
+🧠 Additionally, my journey includes delving into the world of AI, where I've had hands-on experience building models that solve real-world challenges. 🤖
+
+💡 I'm a fast learner, I thrive on challenges and am always eager to learn and apply cutting-edge technologies to create meaningful and impactful solutions. Let's connect and explore the exciting intersection of technology and innovation together! 🌐
 
 
 ## 🌏 Socials:
