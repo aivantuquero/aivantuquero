@@ -9,8 +9,6 @@
 
 🧠 Additionally, my journey includes delving into the world of AI, where I've had hands-on experience building models that solve real-world challenges. 🤖
 
-💡 I'm a fast learner, I thrive on challenges and am always eager to learn and apply cutting-edge technologies to create meaningful and impactful solutions. Let's connect and explore the exciting intersection of technology and innovation together! 🌐
-
 
 ## 🌏 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aivantuquero) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aivancarlos) 
