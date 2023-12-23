@@ -5,7 +5,7 @@
 
 👋 Hello! I'm Aivan Carlos, a passionate 4th-year computer science student with a keen interest in Full Stack Engineering, Mobile Apps, Linux, and Cloud Technologies. I am also an Open Source Contributor 🚀
 
-🛠️ I'm a versatile software engineer skilled in JS/TS (React, Node.js, Express.js), PHP, Flask, AWS, Firebase, Flutter for mobile, and Java Swing/Python for desktop.
+🛠️ I'm a versatile software engineer skilled in JS/TS (React, NextJS, Node.js, Express.js), PHP, Flask, AWS, Firebase, Flutter for mobile, and Java Swing/Python for desktop.
 
 🧠 Additionally, my journey includes delving into the world of AI, where I've had hands-on experience building models that solve real-world challenges. 🤖
 
