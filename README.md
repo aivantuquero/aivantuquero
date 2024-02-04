@@ -1,6 +1,6 @@
 
 ## `Details` about me 😎:
-<img align="left" height="150" alt="Please hire me" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
+<img align="right" height="150" alt="Please hire me" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
 <br>
 
 ⭐Full-Stack Engineer skilled in crafting robust web and mobile applications, with expertise in Javascript/Typescript (ReactJS, NextJS), Node.js, Express.js, PHP, Java Spring, and Python Flask. Proficient in AWS and Firebase for scalable and reliable cloud solutions.
