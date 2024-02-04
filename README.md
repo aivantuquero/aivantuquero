@@ -3,11 +3,11 @@
 <img align="left" height="150" alt="Please hire me" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
 <br>
 
-👋 Hello! I'm Aivan Carlos, a passionate 4th-year computer science student with a keen interest in Full Stack Engineering, Mobile Apps, Linux, and Cloud Technologies. I am also an Open Source Contributor 🚀
+⭐ I'm a Full-Stack Engineer with expertise in crafting web applications, mobile experiences, linux, and cloud technologies. I have a diverse set of tech stacks and skills, ranging from Javascript/Typescript frameworks like ReactJS, NextJS to back-end powerhouses such as Node.js, and Express.js. I seamlessly navigate familiar tools like PHP, Java Spring, and Python Flask, to build robust full-stack applications. My cloud infrastructure experience spans AWS and Firebase, ensuring scalability and reliability.
 
-🛠️ I'm a versatile software engineer skilled in JS/TS (React, NextJS, Node.js, Express.js), PHP, Flask, AWS, Firebase, Flutter for mobile, and Java Swing/Python for desktop.
+🛠️ My expertise extends to mobile app development, where I've crafted seamless experiences using Flutter (Dart). I've also explored the desktop realm, developing a Java Swing-based application and utilizing Python for various projects. 
 
-🧠 Additionally, my journey includes delving into the world of AI, where I've had hands-on experience building models that solve real-world challenges. 🤖
+🧠 Additionally, my journey includes delving into the world of AI, where I've had hands-on experience building models that solve real-world challenges. 
 
 
 ## 🌏 Socials:
