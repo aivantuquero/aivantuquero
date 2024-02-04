@@ -2,7 +2,7 @@
 ## `Details` about me ✅:
 <img align="right" height="150" alt="Please hire me" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
 
-⭐Full-Stack Engineer skilled in crafting robust web and mobile applications, with expertise in Javascript/Typescript (ReactJS, NextJS), Node.js, Express.js, PHP, Java Spring, and Python Flask. Proficient in AWS and Firebase for scalable and reliable cloud solutions.
+⭐Full-Stack Engineer skilled in crafting robust web and mobile applications, with expertise in Javascript/Typescript (ReactJS, NextJS), Node.js, Nestjs, Express.js, PHP, Java Spring, and Python Flask. Proficient in AWS and Firebase for scalable and reliable cloud solutions.
 
 🚀 My expertise extends to mobile app development, where I've crafted seamless experiences using Flutter (Dart). I've also explored the desktop realm, developing a Java Swing-based application and utilizing Python for various projects. 
 
