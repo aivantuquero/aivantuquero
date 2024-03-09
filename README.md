@@ -1,8 +1,8 @@
 ![Line](https://camo.githubusercontent.com/f50234cb9f1be4beead6b35d3f6ec558561a79c263728818838447aa56cb5401/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f68722e676966)
-<img align="right" height="150" alt="Please hire me" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
+
 
 My code go brr
-
+<img align="right" height="150" alt="Please hire me" src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif">
 
 ## 🌏 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aivantuquero) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aivancarlos) 
