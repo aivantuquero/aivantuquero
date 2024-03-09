@@ -1,7 +1,6 @@
-<p align="center">
-# Hello, I'm Aivan (Ivan with an A) ⭐
-</p>
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+# Hello, I'm [Aivan](https://aivantuquero.com) (Ivan with an A) ⭐
+
+
 
 ## 🌏 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aivantuquero) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aivancarlos) 
@@ -12,4 +11,4 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="wave go brr by aivan" />
 </p>
-
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
