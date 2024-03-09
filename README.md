@@ -1,4 +1,6 @@
+<p align="center">
 # Hello, I'm Aivan (Ivan with an A) ⭐
+</p>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ## 🌏 Socials
