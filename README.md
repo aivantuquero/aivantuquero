@@ -1,5 +1,3 @@
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 # Hello, I'm [Aivan](https://aivantuquero.com)! (Ivan with an A) ⭐
 A Full-Stack Engineer with expertise in crafting web applications, mobile experiences, linux, and cloud technologies. I have a diverse set of tech stacks and skills, ranging from Javascript/Typescript frameworks like ReactJS, NextJS to back-end powerhouses such as Node.js, and Express.js. I seamlessly navigate familiar tools like PHP, Java Spring, and Python Flask, to build robust full-stack applications. My cloud infrastructure experience spans AWS and Firebase, ensuring scalability and reliability. Additionally, my journey includes delving into the world of AI, where I've had hands-on experience building machine learning models that solve real-world challenges. 
 
