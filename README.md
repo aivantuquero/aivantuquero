@@ -1,6 +1,6 @@
 # Hello, I'm [Aivan](https://aivantuquero.com)! (Ivan with an A) ⭐
 <img align='right' src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" />
-Full-Stack Engineer / Data Engineer / Mathematics / Machine Learning
+Full-Stack Engineer with expertise in web, mobile, cloud, data engineering, and AI. Proficient in React, Next.js, Node.js, Express.js, PHP, Java, Python, AWS, Firebase, and ML. Build scalable, data-driven applications.
 
 ## 🌏 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aivantuquero) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aivancarlos) 
