@@ -1,7 +1,7 @@
 # Hello, I'm [Aivan](https://aivantuquero.com)! (Ivan with an A) ⭐
 A Full-Stack Engineer with expertise in crafting web applications, mobile experiences, linux, and cloud technologies. I have a diverse set of tech stacks and skills, ranging from Javascript/Typescript frameworks like ReactJS, NextJS to back-end powerhouses such as Node.js, and Express.js. I seamlessly navigate familiar tools like PHP, Java Spring, and Python Flask, to build robust full-stack applications. My cloud infrastructure experience spans AWS and Firebase, ensuring scalability and reliability. Additionally, my journey includes delving into the world of AI, where I've had hands-on experience building machine learning models that solve real-world challenges. 
 
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" /><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" />
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" />
 
 ## 🌏 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aivantuquero) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aivancarlos) 
